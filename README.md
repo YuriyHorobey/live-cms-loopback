@@ -1,1 +1,1 @@
-# live-cms-loopback
+# LiveCMS Loopback based API
